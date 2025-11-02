@@ -2,6 +2,9 @@
 
 SPA com templates JS, roteamento via hash, validação de formulários (CPF, e-mail, telefone, CEP), máscaras leves e armazenamento local dos cadastros.
 
+## 🌐 Site publicado
+👉 [Acesse o site pelo GitHub Pages](https://amathias-ucsp.github.io/salve-o-curintia-entrega3/)
+
 ## Como rodar
 Abra `index.html` no navegador (funciona direto em arquivo) ou publique no GitHub Pages.
 
